@@ -5,8 +5,8 @@ category: conferences
 permalink: /publication/2024-12-1-paper-title-number-1
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-12-1
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/Propagating_Diffusion_Algebras.pdf'
+venue: '109 preprint'
+paperurl: 'http://jobswei.github.io/files/Propagating_Diffusion_Algebras.pdf'
 citation: 'Ziyu Wei, You. (2024). &quot;Propagating Diffusion Algebras.&quot; <i>GitHub Journal of Bugs</i>. 109 preprint.'
 ---
 
